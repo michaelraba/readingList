@@ -21,12 +21,14 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 * _GPU Programming in MATLAB Nikolaos Ploskas_, ‎Nikolaos Samaras · 2016
 * Jung Suh, ‎Youngmin Kim 2013, _Accelerating MATLAB with GPU Computing: A Primer with Examples_
-
+### Open MPI
+* 
+### GPU Cuda
 * Jason Sanders, Edward Kandrot, _CUDA by Example An Introduction to General-Purpose GPU Programming_
 * Nicholas Wilt _The CUDA Handbook: A Comprehensive Guide to GPU Programming_ , 2013
-### Open MPI
-### GPU Cuda
+* Soyata, _GPU Parallel Program Development Using CUDA_, 2018.
 ### c++
+* Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, 2015
 ### Numerical Analysis
 * Cheol Ho Hong  Wŏn-yŏng Yang  Jong Suk Ro  Han L. Lee  Wenwu Cao  Jaekwon Kim  Taeho Im  Kyung W. Park  Jingon Joung  Ho Hyun Park - Applied numerical methods using MATLAB® (2020) 
 ### Linear Algebra
