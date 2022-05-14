@@ -1,3 +1,5 @@
+![Linear_algebra](https://github.com/michaelraba/readingList/blob/master/book.jpg "linear algebra book")
+
 # Reading List for numerics 
 
 ## Why a READING LIST is necessary?
@@ -18,3 +20,4 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 ### GPU Cuda
 ### c++
 ### rust
+
