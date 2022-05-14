@@ -8,8 +8,6 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 ## Categories 
 
-### Numerical Analysis
-### Linear Algebra
 1. 
 ### Programming
 ### Fortran. For 90/03/08/18
@@ -20,7 +18,23 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 2. Modern Fortran Explained (Fortran 2018)
 
 ### Open MPI
+1. 
+2. 
+3. 
 ### GPU Cuda
+1. 
+2. 
 ### c++
+1. 
+2. 
+### Numerical Analysis
+### Linear Algebra
 ### rust
+### PDE 
+1. 
+2. 
+3. 
 
+### Gasdynamics, Heat Transfer 
+* Methods in Heat Transfer Ozisik
+<img src="https://github.com/michaelraba/readingList/blob/master/bht.jpg" width="150">
