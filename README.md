@@ -14,34 +14,32 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 <img src="https://github.com/michaelraba/readingList/blob/master/f1.jpg" width="150">
 
-* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018-Oxford University Press (2018) '
-* Modern Fortran Explained (Fortran 2018)
+* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018
+* Modern Fortran Explained (for Fortran 2018)
 
 ### Matlab Parallel Programming
-* Yair M. Altman - Accelerating MATLAB Performance  1001 Tips to Speed Up MATLAB Programs-Chapman & Hall CRC (2014) 
+* Yair M. Altman - Accelerating MATLAB Performance: 1001 Tips to Speed Up MATLAB Programs (2014)
 
-
-* _GPU Programming in MATLAB Nikolaos Ploskas_, ‎Nikolaos Samaras · 2016
-* Jung Suh, ‎Youngmin Kim 2013, _Accelerating MATLAB with GPU Computing: A Primer with Examples_
+* _GPU Programming in MATLAB Nikolaos Ploskas_, ‎Nikolaos Samaras (2016)
+* Jung Suh, ‎Youngmin Kim, _Accelerating MATLAB with GPU Computing: A Primer with Examples_ (2013)
 ### Open MPI
 * 
 ### GPU Cuda
 * Jason Sanders, Edward Kandrot, _CUDA by Example An Introduction to General-Purpose GPU Programming_
-* Nicholas Wilt _The CUDA Handbook: A Comprehensive Guide to GPU Programming_ , 2013
-* Soyata, _GPU Parallel Program Development Using CUDA_, 2018.
+* Nicholas Wilt _The CUDA Handbook: A Comprehensive Guide to GPU Programming_ , (2013)
+* Soyata, _GPU Parallel Program Development Using CUDA_, (2018).
 ### c++
-* Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, 2015
+* Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, (2015).
 ### Numerical Analysis
-* Cheol Ho Hong  Wŏn-yŏng Yang  Jong Suk Ro  Han L. Lee  Wenwu Cao  Jaekwon Kim  Taeho Im  Kyung W. Park  Jingon Joung  Ho Hyun Park - Applied numerical methods using MATLAB® (2020) 
+* Cheol Ho Hong  Wŏn-yŏng Yang  Jong Suk Ro  Han L. Lee  Wenwu Cao  Jaekwon Kim  Taeho Im  Kyung W. Park  Jingon Joung  Ho Hyun Park - Applied numerical methods using MATLAB® (2020).
 ### Linear Algebra
 ### rust
 ### PDE 
 
 ### Gasdynamics, Heat Transfer 
- _Ozisik_ Methods in Heat Transfer
+ Ozisik, _Methods in Heat Transfer_
 
 <img src="https://github.com/michaelraba/readingList/blob/master/bht.jpg" width="150">
-
 
 ### Unsorted  - Sort me! 
 *  A. Ecer, J. Periaux, N. Satdfuka and S. Taylor (Eds.) - Parallel Computational Fluid Dynamics 1995. Implementations and Results Using Parallel Computers-North-holland (1996)
