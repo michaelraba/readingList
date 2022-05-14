@@ -1,4 +1,4 @@
-![Linear_algebra](https://github.com/michaelraba/readingList/blob/master/book.jpg "linear algebra book")
+<img src="https://github.com/michaelraba/readingList/blob/master/book.jpg" width="100" height="100">
 
 # Reading List for numerics 
 
