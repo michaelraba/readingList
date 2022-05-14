@@ -14,7 +14,7 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 <img src="https://github.com/michaelraba/readingList/blob/master/f1.jpg" width="150">
 
-* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018-Oxford University Press (2018).pdf'
+* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018-Oxford University Press (2018) '
 * Modern Fortran Explained (Fortran 2018)
 
 ### Matlab Parallel Programming
