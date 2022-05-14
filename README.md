@@ -10,15 +10,20 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 ### Programming
 ### Fortran. For 90/03/08/18
+* Guide to Fortran 2008 Programming
+* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018-Oxford University Press (2018).pdf'
+* Modern Fortran Explained (Fortran 2018)
+
 ### Matlab Parallel Programming
 * Yair M. Altman - Accelerating MATLAB Performance  1001 Tips to Speed Up MATLAB Programs-Chapman & Hall CRC (2014) 
 
-* Guide to Fortran 2008 Programming
-* Malcolm  Metcalf, Michael  Reid, John Ker - Modern Fortran explained  incorporating Fortran 2018-Oxford University Press (2018).pdf'
 <img src="https://github.com/michaelraba/readingList/blob/master/f1.jpg" width="150">
 
-2. Modern Fortran Explained (Fortran 2018)
+* _GPU Programming in MATLAB Nikolaos Ploskas_, ‎Nikolaos Samaras · 2016
+* Jung Suh, ‎Youngmin Kim 2013, _Accelerating MATLAB with GPU Computing: A Primer with Examples_
 
+* Jason Sanders, Edward Kandrot, _CUDA by Example An Introduction to General-Purpose GPU Programming_
+* Nicholas Wilt _The CUDA Handbook: A Comprehensive Guide to GPU Programming_ , 2013
 ### Open MPI
 ### GPU Cuda
 ### c++
