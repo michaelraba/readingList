@@ -42,13 +42,13 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * G. Cavvazini - The Particle Image Velocimetry - Chars., Limits, Poss. Applns.-Intech (2012)
 * 365 Days With Self-Discipline 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success by Martin Meadows (z-lib.org).epub
 *  Rodriguez, Salvador - Applied Computational Fluid Dynamics and Turbulence Modeling -- Practical Tools, Tips and Techniques-Springer International Publishing (2019).pdf
-* Pierre Sagaut, Claude Cambon - Homogeneous Turbulence Dynamics (2018, Springer International Publishing) - libgen.lc.pdf
-* Robert Bringhurst - The Elements of Typographic Style (2004, Hartley & Marks, Publishers) - libgen.lc.djvu
- An introduction to turbulence by Javier Jiménez (z-lib.org) (1).pdf
-* Reddy, Junuthula Narasimha - An Introduction to nonlinear finite element analysis_ with applications to heat transfer, fluid mechanics, and solid mechanics (2015, Oxford University Press) - libgen.lc.pdf
-* Computational Fluid Dynamics Incompressible Turbulent Flows by Takeo Kajishima, Kunihiko Taira (auth.) (z-lib.org).pdf
+* Pierre Sagaut, Claude Cambon - Homogeneous Turbulence Dynamics (2018, Springer International Publishing) 
+* Robert Bringhurst - The Elements of Typographic Style (2004, Hartley & Marks, Publishers) 
+ An introduction to turbulence by Javier Jiménez 
+* Reddy, Junuthula Narasimha - An Introduction to nonlinear finite element analysis_ with applications to heat transfer, fluid mechanics, and solid mechanics (2015, Oxford University Press) 
+* Computational Fluid Dynamics Incompressible Turbulent Flows by Takeo Kajishima, Kunihiko Taira (auth.)
 * Marc Levinson - The Box_ How the Shipping Container Made the World Smaller and the World Economy Bigger, Second Edition with a new chapter by the author-Princeton University Press (2016).pdf
 * Cheol Ho Hong_ Wŏn-yŏng Yang_ Jong Suk Ro_ Han L. Lee_ Wenwu Cao_ Jaekwon Kim_ Taeho Im_ Kyung W. Park_ Jingon Joung_ Ho Hyun Park - Applied numerical methods using MATLAB® (2020).pdf
-* 250 Essential Chinese Characters Volume 1 Revised Edition by Philip Yungkin Lee, Darell Tibbles (z-lib.org).pdf
-* Numerical methods for nonlinear engineering models by John R. Hauser (z-lib.org).pdf
-* Numerical Methods in Scientific Computing by Ake Bjorck, Germund Dahlquist (z-lib.org).pdf
+* 250 Essential Chinese Characters Volume 1 Revised Edition by Philip Yungkin Lee, Darell Tibbles
+* Numerical methods for nonlinear engineering models by John R. Hauser 
+* Numerical Methods in Scientific Computing by Ake Bjorck, Germund Dahlquist 
