@@ -19,15 +19,10 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 ### rust
 
 | Numerical |   |
-|:----------|:--|
 | Linear    |   |
-|:----------|:--|
 | Fortran   |   |
-|:----------|:--|
 | Open MPI  | a |
-|:----------|:--|
 | GPU Cuda  |   |
-|:----------|:--|
 | C++       |   |
 
 
