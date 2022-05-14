@@ -1,4 +1,4 @@
-<img src="https://github.com/michaelraba/readingList/blob/master/book.jpg" width="100" height="100">
+<img src="https://github.com/michaelraba/readingList/blob/master/book.jpg" width="150" height="200">
 
 # Reading List for numerics 
 
