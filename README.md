@@ -2,7 +2,7 @@
 
 # Reading List for Numerics 
 
-## Why a READING LIST is necessary?
+## Why a READING LIST is Necessary?
 
 As engineers/scientific workers, we accumlate reference books which one are gems, but the next week are lost, to memory! as it were. In order to keep orderly in other respects as a Msc student, I've been using a [Hobonichi Techo](https://www.1101.com/store/techo/en/), and my marginalia of my finds accumlate and become unwiedy. Therefore, create an orderly List of sorts!
 
