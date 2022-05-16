@@ -34,7 +34,8 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * Soyata, _GPU Parallel Program Development Using CUDA_, (2018).
 * Ansorge, _Programming in Parallel with Cuda_, CUP (2022).
 
-<img src="https://github.com/michaelraba/readingList/blob/master/gpuCup.png" width="150">
+<img src="https://github.com/michaelraba/readingList/tree/master/images" width="150">
+
 
 ### c++
 * Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, (2015).
