@@ -32,6 +32,10 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * Jason Sanders, Edward Kandrot, _CUDA by Example An Introduction to General-Purpose GPU Programming_
 * Nicholas Wilt _The CUDA Handbook: A Comprehensive Guide to GPU Programming_ , (2013)
 * Soyata, _GPU Parallel Program Development Using CUDA_, (2018).
+* Ansorge, _Programming in Parallel with Cuda_, CUP (2022).
+
+<img src="https://github.com/michaelraba/readingList/blob/master/gpuCup.png" width="150">
+
 ### c++
 * Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, (2015).
 ### Numerical Analysis
