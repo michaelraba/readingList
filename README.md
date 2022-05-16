@@ -34,7 +34,7 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * Soyata, _GPU Parallel Program Development Using CUDA_, (2018).
 * Ansorge, _Programming in Parallel with Cuda_, CUP (2022).
 
-<img src="https://github.com/michaelraba/readingList/tree/master/images/gpuCup.png" width="150">
+<img src="https://github.com/michaelraba/readingList/blob/master/images/gpuCup.png" width="150">
 
 
 ### c++
