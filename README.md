@@ -59,3 +59,6 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * 250 Essential Chinese Characters Volume 1 Revised Edition by Philip Yungkin Lee, Darell Tibbles
 * Numerical methods for nonlinear engineering models by John R. Hauser 
 * Numerical Methods in Scientific Computing by Ake Bjorck, Germund Dahlquist 
+* Pacheco and Malensek, _an Introduction to Parallel Programming_. 2021 
+
+<img src="https://github.com/michaelraba/readingList/blob/master/pacheco.png" width="150">
