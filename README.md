@@ -61,4 +61,4 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * Numerical Methods in Scientific Computing by Ake Bjorck, Germund Dahlquist 
 * Pacheco and Malensek, _an Introduction to Parallel Programming_. 2021 
 
-<img src="https://github.com/michaelraba/readingList/blob/master/images/pacheco.png" width="150">
+<img src="https://github.com/michaelraba/readingList/blob/master/images/pachecho.png" width="150">
