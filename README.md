@@ -21,6 +21,10 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 * Yair M. Altman - Accelerating MATLAB Performance: 1001 Tips to Speed Up MATLAB Programs (2014)
 
 * _GPU Programming in MATLAB Nikolaos Ploskas_, ‎Nikolaos Samaras (2016)
+
+
+<img src="https://github.com/michaelraba/readingList/blob/master/images/gpuMat.png" width="150">
+
 * Jung Suh, ‎Youngmin Kim, _Accelerating MATLAB with GPU Computing: A Primer with Examples_ (2013)
 ### Open MPI
 * 
