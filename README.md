@@ -36,7 +36,9 @@ As engineers/scientific workers, we accumlate reference books which one are gems
 
 <img src="https://github.com/michaelraba/readingList/blob/master/images/gpuCup.png" width="150">
 
+* Barlas, _Multicore and GPU Programming: an Integrated Approach_, CUP (2014).
 
+<img src="https://github.com/michaelraba/readingList/blob/master/images/gpuIntegrate.jpg" width="150">
 ### c++
 * Scott Meyers, _Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14_, (2015).
 ### Numerical Analysis
